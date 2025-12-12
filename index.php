@@ -48,7 +48,7 @@ function guardarPersonasEnArchivo($personas, $archivo) {
 function inicializarDatosPorDefecto($archivo) {
     $personasIniciales = [
         ['Michaell', 'Gomez', '2007-04-01', 'Michaell01gomez63@gmail.com', '3208104890', 'M'],
-        ['Karen', 'Gomez', '1982-03-25', 'Karen1gomez63@gmail.com', '3142715792', 'F'],
+        ['Karen', 'Gomez', '1982-06-25', 'Karen1gomez63@gmail.com', '3142715792', 'F'],
         ['Stiven', 'Rodriguez', '2006-10-31', 'StivenRZ@gmail.com', '3178546648', 'M']
     ];
     
