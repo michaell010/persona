@@ -47,9 +47,9 @@ function guardarPersonasEnArchivo($personas, $archivo) {
 // Función para inicializar datos por defecto
 function inicializarDatosPorDefecto($archivo) {
     $personasIniciales = [
-        ['Jair', 'Arias', '2008-04-17', 'jair.qek@gmail.com', '3017330341', 'M'],
-        ['Maria', 'Cueca', '1972-03-25', 'maria@gmail.com', '3214379283', 'F'],
-        ['Hector', 'Arias', '1995-01-18', 'hectorqek@gmail.com', '3178546648', 'M']
+        ['Michaell', 'Gomez', '2007-04-01', 'Michaell01gomez63@gmail.com', '3208104890', 'M'],
+        ['Karen', 'Gomez', '1982-03-25', 'Karen1gomez63@gmail.com', '3142715792', 'F'],
+        ['Stiven', 'Rodriguez', '2006-10-31', 'StivenRZ@gmail.com', '3178546648', 'M']
     ];
     
     $personas = [];
